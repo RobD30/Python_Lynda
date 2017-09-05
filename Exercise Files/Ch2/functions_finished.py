@@ -1,6 +1,4 @@
-#
-# Example file for working with functions
-# (For Python 3.x, be sure to use the ExampleSnippets3.txt file)
+#!/usr/bin/env python3
 
 # define a function
 def func1():
