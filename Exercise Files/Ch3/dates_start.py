@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
+from datetime import date
+from datetime import time
+from datetime import datetime
+
 
 def main():
-    from datetime import date
-    from datetime import time
-    from datetime import datetime
-
     ## DATE OBJECTS
     # Get today's date from the simple today() method from the date class
     today = date.today()
