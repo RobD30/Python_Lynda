@@ -1,6 +1,4 @@
-#
-# Example file for formatting time and date output
-# (For Python 3.x, be sure to use the ExampleSnippets3.txt file)
+#!/usr/bin/env python3
 
 from datetime import datetime
 
